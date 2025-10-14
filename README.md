@@ -4,8 +4,8 @@
 
 <div align='center'> 
     <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://www.python.org/static/community_logos/python-logo.png" width="150" height="150" /> </a> 
-
+        <img src="./img/python_logo.png" width="150" height="150" /> 
+    </a> 
     <a href="https://huggingface.co/docs/transformers/index" target="_blank"> 
         <img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="150" height="150" /> 
     </a> 
