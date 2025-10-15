@@ -15,9 +15,9 @@
 
 ## 🔧 Ferramentas
 
--   Python: é uma linguagem de programação de alto nível, interpretada, orientada a objetos e de propósito geral.
--   Transformers (Hugging Face): Biblioteca para trabalhar com modelos de linguagem pré-treinados, como o FLAN-T5.
--   Python-dotenv: Biblioteca para carregar variáveis de ambiente a partir de arquivos .env.
+-   **Python**: é uma linguagem de programação de alto nível, interpretada, orientada a objetos e de propósito geral.
+-   **Transformers (Hugging Face)**: Biblioteca para trabalhar com modelos de linguagem pré-treinados, como o FLAN-T5.
+-   **Python-dotenv**: Biblioteca para carregar variáveis de ambiente a partir de arquivos .env.
 
 ## 💻 Como Executar o Projeto
 
@@ -55,8 +55,8 @@ Siga estas etapas para configurar e executar a API em seu ambiente:
   python main.py
   ```
 ## 📝 Como Usar:
-    Ao rodar o script, digite um tema quando solicitado, por exemplo: focus, courage, perseverance.
-    O gerador retornará uma frase motivacional curta baseada no tema escolhido.
+Ao rodar o script, digite um tema quando solicitado, por exemplo: focus, courage, perseverance.
+O gerador retornará uma frase motivacional curta baseada no tema escolhido.
 
 
 ## 🙏 Contribuição:
